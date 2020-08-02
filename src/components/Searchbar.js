@@ -27,8 +27,7 @@ const styles = StyleSheet.create({
     marginHorizontal: 10,
     marginTop: 10,
     flexDirection: "row",
-    borderColor: "black",
-    borderWidth: 1,
+    
     
   },
   IpField: {
